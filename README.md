@@ -1,6 +1,6 @@
 # Bootstrap Birinci Ödev
 
-## [Patika](www.patika.dev)'in Front-End Web patikası kapsamındaki Bootstrap derleri birinci ödevi
+## [Patika](www.patika.dev)'nın Front-End Web patikası kapsamındaki Bootstrap dersleri birinci ödevi
 
 - Bu ödevde bootstrap ile navigation bar yapımını ve card sistemini öğrendim.
 
@@ -9,5 +9,6 @@
 
 ### Proje-SS
 ![Proje SS](bootstrap-odev-ss.jpg)
-
+****
 [License](LICENSE)
+****
