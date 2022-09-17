@@ -9,3 +9,5 @@
 
 ### Proje-SS
 ![Proje SS](bootstrap-odev-ss.jpg)
+
+[License](LICENSE)
